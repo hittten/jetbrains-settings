@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8ceb828a-724b-46a1-a3dc-40345de25f41" name="Vagrant" url="http://192.168.2.100">
+        <fileTransfer host="192.168.2.100" port="22" privateKey="$USER_HOME$/Workspace/hittten/dev-web-server/.vagrant/machines/default/virtualbox/private_key" rootFolder="/home/ubuntu" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
