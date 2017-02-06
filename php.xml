@@ -661,9 +661,4 @@
       </interpreter>
     </phpInfoCache>
   </component>
-  <component name="PhpUnit">
-    <phpunit_settings>
-      <phpunit_by_interpreter interpreter_id="737cd8dc-b98c-4bf0-9817-390213518c66" configuration_file_path="/home/ubuntu/Workspace/hittten/symfony.api.dev/phpunit.xml.dist" custom_loader_path="/home/ubuntu/Workspace/appforbrands/enua.es.dev" phpunit_phar_path="" use_configuration_file="true" />
-    </phpunit_settings>
-  </component>
 </application>
