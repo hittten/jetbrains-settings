@@ -14,7 +14,7 @@
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter home="sftp://ubuntu@192.168.2.100:22/usr/bin/php" id="13ef61b6-df34-4ff7-a5b1-03c35ac9ff73" name="Remote PHP 7" debugger_id="php.debugger.XDebug">
-        <remote_data WEB_SERVER_CONFIG_ID="c0565ea3-8490-4c2f-8966-2a28b41ca731" WEB_SERVER_CONFIG_NAME="Vagrant" HOST="192.168.2.100" PORT="22" ANONYMOUS="false" USERNAME="ubuntu" PASSWORD="" PRIVATE_KEY_FILE="$USER_HOME$/Workspace/hittten/dev-web-server/.vagrant/machines/default/virtualbox/private_key" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="true" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/ubuntu/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
+        <remote_data WEB_SERVER_CONFIG_ID="8ceb828a-724b-46a1-a3dc-40345de25f41" WEB_SERVER_CONFIG_NAME="Vagrant" HOST="192.168.2.100" PORT="22" ANONYMOUS="false" USERNAME="ubuntu" PASSWORD="" PRIVATE_KEY_FILE="$USER_HOME$/Workspace/hittten/dev-web-server/.vagrant/machines/default/virtualbox/private_key" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="true" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/ubuntu/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
       <interpreter home="/usr/local/opt/php70/bin/php" id="e0219605-6d27-4953-8def-6fa7c4789f66" name="Local PHP" debugger_id="php.debugger.XDebug" />
     </interpreters>
