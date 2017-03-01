@@ -1,6 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="FILE_MASK" value="*.php" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="FILE_MASK" value="*.sass" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -15,6 +17,7 @@
       <mask>*Service.php</mask>
       <mask>*.yml</mask>
       <mask>*.php</mask>
+      <mask>*.sass</mask>
     </recentFileMasks>
   </component>
 </application>
