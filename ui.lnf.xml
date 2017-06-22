@@ -2,6 +2,7 @@
   <component name="UISettings">
     <option name="FONT_FACE" value=".SF NS Text" />
     <option name="HIDE_TOOL_STRIPES" value="false" />
-    <option name="MAX_LOOKUP_LIST_HEIGHT" value="16" />
+    <option name="MAX_LOOKUP_WIDTH2" value="747" />
+    <option name="MAX_LOOKUP_LIST_HEIGHT" value="18" />
   </component>
 </application>
