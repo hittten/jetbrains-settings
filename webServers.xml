@@ -9,6 +9,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="b5fa3a85-76e5-4abf-91ed-998c809ba4ad" name="AWS Jade Viesgo (DEV, PRE)" url="http://dev.jadeenergia.com">
+        <fileTransfer host="dev.jadeenergia.com" port="22" privateKey="C:\Users\Gil\.ssh\viesgo_dev_ie2icore_aws-ec2.pem" rootFolder="/home/ubuntu" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
